@@ -1,5 +1,6 @@
 {
-  "common": {
+  "reviews": {
+    "common": {
     "ack": "OK",
     "faultCode": null,
     "faultString": null
@@ -30,4 +31,5 @@
       "id": "1"
     }
   ]
+  }
 }
