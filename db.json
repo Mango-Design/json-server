@@ -1,0 +1,33 @@
+{
+  "common": {
+    "ack": "OK",
+    "faultCode": null,
+    "faultString": null
+  },
+  "rassegnaList": [
+    {
+      "rassegnaStampaId": "1408181",
+      "descrizione": "2017 Test",
+      "dataRassegna": "16/05/2018",
+      "tipoRassegnaId": "3"
+    },
+    {
+      "rassegnaStampaId": "1408164",
+      "descrizione": "dadxwqd",
+      "dataRassegna": "09/03/2018",
+      "tipoRassegnaId": "3"
+    },
+    {
+      "rassegnaStampaId": "501234",
+      "descrizione": "Rassegna Stampa del 01 GENNAIO 1999",
+      "dataRassegna": "01/01/1999",
+      "tipoRassegnaId": "1"
+    },
+    {
+      "rassegnaStampaId": "1181783",
+      "descrizione": "Rassegna Stampa del 11/10/1900",
+      "dataRassegna": "11/10/1900",
+      "tipoRassegnaId": "1"
+    }
+  ]
+}
