@@ -1,9 +1,9 @@
 {
    "reviews":{
       "common":{
-         "ack":"OK",
+         "ack":"KO",
          "faultCode":null,
-         "faultString":null
+         "faultString":"The whole thing went Bananas"
       },
       "rassegnaList":[
          {
