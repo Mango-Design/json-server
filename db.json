@@ -2,34 +2,10 @@
    "reviews":{
       "common":{
          "ack":"KO",
-         "faultCode":null,
+         "faultCode":404,
          "faultString":"The whole thing went Bananas"
       },
       "rassegnaList":[
-         {
-            "rId":"1",
-            "descrizione":"2017 Test",
-            "dataRassegna":"16/05/2018",
-            "id":"3"
-         },
-         {
-            "rId":"2",
-            "descrizione":"dadxwqd",
-            "dataRassegna":"09/03/2018",
-            "id":"3"
-         },
-         {
-            "rId":"3",
-            "descrizione":"Rassegna Stampa del 01 GENNAIO 1999",
-            "dataRassegna":"01/01/1999",
-            "id":"1"
-         },
-         {
-            "rId":"4",
-            "descrizione":"Rassegna Stampa del 11/10/1900",
-            "dataRassegna":"11/10/1900",
-            "id":"1"
-         }
       ]
    }
 }
